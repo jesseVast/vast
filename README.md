@@ -1,4 +1,4 @@
-# VAST - Distrubution Wheel Files
+# VAST - Distribution Wheel Files
 
 This repository contains distribution wheels for VAST related code created by Jesse Thaloor. 
 
